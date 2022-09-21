@@ -1,5 +1,5 @@
-### <U>Hi there 👋</U>
+### __Hi there 👋__
 
 Frontend engieer from Korea. @jmnghn
 
-<U>### ⚡️ Technologies</U>
+__### ⚡️ Technologies__
