@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-Frontend engieer from Korea. @jmnghn
+@jmnghn
 
 <img src="https://img.shields.io/badge/jeongmyeonghyeon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
 
