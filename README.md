@@ -1,5 +1,9 @@
-### __Hi there 👋__
+### Hi there 👋
+
+---
+___
+***
 
 Frontend engieer from Korea. @jmnghn
 
-__### ⚡️ Technologies__
+### ⚡️ Technologies
