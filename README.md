@@ -12,3 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmnghn&layout=compact&show_icons=true&show_owner=jmnghn&hide_title=true&theme=nord" />
 -->
 <!-- https://simpleicons.org/ -->
+
+## 👀 Be interested in
+
+monorepo, BFF(Backend For Frontend), ...
